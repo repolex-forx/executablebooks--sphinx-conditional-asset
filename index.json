@@ -1,0 +1,11 @@
+{
+  "org": "executablebooks",
+  "repo": "sphinx-conditional-asset",
+  "versions": [
+    {
+      "commit": "0228a75ff0f582147878960c4d660f212fc287fe",
+      "tag": "",
+      "parsed_at": "2026-10-21T21:36:23.228221+00:00"
+    }
+  ]
+}
